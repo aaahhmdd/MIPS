@@ -1,0 +1,85 @@
+{E:/Senior-1/Fall 24/CA/final proj/codes_mips/DataMemory.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/DataMemory.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALUControl.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALUControl.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ProgramCounter
+
+Top level modules:
+	ProgramCounter
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/tb.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/tb.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MIPS_Testbench
+
+Top level modules:
+	MIPS_Testbench
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/WriteBackMUX.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/WriteBackMUX.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module WriteBackMUX
+
+Top level modules:
+	WriteBackMUX
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/IF_ID_Reg.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/IF_ID_Reg.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module IF_ID_Reg
+
+Top level modules:
+	IF_ID_Reg
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/MUX2to1.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/MUX2to1.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MUX2to1
+
+Top level modules:
+	MUX2to1
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/ControlUnit.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/ControlUnit.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ControlUnit
+
+Top level modules:
+	ControlUnit
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALU.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALU.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/RegisterFile.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/RegisterFile.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC_update.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC_update.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module pcUpdateLogic
+
+Top level modules:
+	pcUpdateLogic
+
+} {} {}} {E:/Senior-1/Fall 24/CA/final proj/codes_mips/MIPS_Processor.v} {1 {vlog -work work -vopt -stats=none {E:/Senior-1/Fall 24/CA/final proj/codes_mips/MIPS_Processor.v}
+QuestaSim-64 vlog 2021.1 Compiler 2021.01 Jan 19 2021
+-- Compiling module MIPS_Processor
+
+Top level modules:
+	MIPS_Processor
+
+} {} {}}

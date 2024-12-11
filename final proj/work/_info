@@ -1,0 +1,341 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.1 2021.01, Jan 19 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/questasim64_2021.1/examples
+T_opt
+!s110 1733889523
+VY]bedX[hJV7R`K^zmGXZ40
+Z2 04 14 4 work MIPS_Testbench fast 0
+=1-38f3abf71826-67590df3-31e-d7c
+Z3 !s124 OEM100
+o-quiet -auto_acc_if_foreign -work work
+Z4 tCvgOpt 0
+n@_opt
+Z5 OL;O;2021.1;73
+R1
+T_opt1
+!s110 1733892582
+VJ?b`Z21nEM@X22[dU^=J73
+R2
+=1-38f3abf71826-675919e6-26a-5cf4
+R3
+o-quiet -auto_acc_if_foreign -work work +acc
+R4
+n@_opt1
+R5
+vALU
+Z6 !s110 1733892579
+!i10b 1
+!s100 D:YZVoi[Uc=WcZandfkDZ0
+Ia^dPC<[66A<aG^6=j7THE1
+Z7 dE:/Senior-1/Fall 24/CA/final proj
+w1733708660
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALU.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/ALU.v
+!i122 142
+L0 1 17
+Z8 VDg1SIo80bB@j0V0VzS_@n1
+Z9 OL;L;2021.1;73
+r1
+!s85 0
+31
+Z10 !s108 1733892579.000000
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALU.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALU.v|
+!i113 0
+Z11 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+n@a@l@u
+vALUControl
+R6
+!i10b 1
+!s100 ;hhI2ZQGO;Xi<Jg7Kj29<3
+IUPF;3USZi4oRj8o=5AobD0
+R7
+w1733889512
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALUControl.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/ALUControl.v
+!i122 143
+Z12 L0 1 20
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALUControl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/ALUControl.v|
+!i113 0
+R11
+R4
+n@a@l@u@control
+vControlUnit
+R6
+!i10b 1
+!s100 EePQO7mz9kcfm`W@64a052
+Icd4[NmW[io5JGJ<?XQ2L@1
+R7
+w1733708766
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/ControlUnit.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/ControlUnit.v
+!i122 144
+L0 1 48
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/ControlUnit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/ControlUnit.v|
+!i113 0
+R11
+R4
+n@control@unit
+vDataMemory
+R6
+!i10b 1
+!s100 ][>1RA9Vn[iY386SCKEB22
+I4U8FdTE7j9e8I5^?][I3f3
+R7
+w1733890398
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/DataMemory.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/DataMemory.v
+!i122 145
+L0 1 40
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/DataMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/DataMemory.v|
+!i113 0
+R11
+R4
+n@data@memory
+vIF_ID_Reg
+R6
+!i10b 1
+!s100 iOT8LG[;G;^ma51gF]>XR3
+IF@1]E7ELFGB>amCPOYNjl0
+R7
+w1732907573
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/IF_ID_Reg.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/IF_ID_Reg.v
+!i122 146
+L0 1 18
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/IF_ID_Reg.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/IF_ID_Reg.v|
+!i113 0
+R11
+R4
+n@i@f_@i@d_@reg
+vInstructionMemory
+R6
+!i10b 1
+!s100 of0<7lG6doK5zDH3jWfn:1
+I^S>1]F2P[ifhFW2WR]`861
+R7
+w1733892571
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/InstructionMemory.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/InstructionMemory.v
+!i122 147
+L0 1 29
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/InstructionMemory.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/InstructionMemory.v|
+!i113 0
+R11
+R4
+n@instruction@memory
+vMIPS_Processor
+R6
+!i10b 1
+!s100 [DCPReE`S^_CTUNhU3f8H2
+IWX;?PfY_9lEhafX`oQ>l`2
+R7
+w1733891611
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/MIPS_Processor.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/MIPS_Processor.v
+!i122 148
+L0 7 123
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/MIPS_Processor.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/MIPS_Processor.v|
+!i113 0
+R11
+R4
+n@m@i@p@s_@processor
+vMIPS_Testbench
+Z13 !s110 1733892580
+!i10b 1
+!s100 Pb>0CAHKT0OQm=4F;BP^d0
+IEkUf>l_;KMcOiXl^0geMZ0
+R7
+w1733891331
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/tb.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/tb.v
+!i122 153
+L0 1 61
+R8
+R9
+r1
+!s85 0
+31
+Z14 !s108 1733892580.000000
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/tb.v|
+!i113 0
+R11
+R4
+n@m@i@p@s_@testbench
+vMUX2to1
+R6
+!i10b 1
+!s100 H]H856j?<77cHSSoS>]560
+IgMM6`oW4Mkb8W;LZNJO`f1
+R7
+w1732907536
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/MUX2to1.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/MUX2to1.v
+!i122 149
+Z15 L0 1 13
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/MUX2to1.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/MUX2to1.v|
+!i113 0
+R11
+R4
+n@m@u@x2to1
+vpcUpdateLogic
+R6
+!i10b 1
+!s100 0EKk0Z`F`eS7TG]hRHAz_1
+I<^@R[P8;hl5[B<AiUN9]n3
+R7
+w1733888991
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC_update.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/PC_update.v
+!i122 151
+R12
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC_update.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC_update.v|
+!i113 0
+R11
+R4
+npc@update@logic
+vProgramCounter
+R6
+!i10b 1
+!s100 >gBFh]e4[F:RjCACmPeI70
+I2J:DU3`cC3KeaM`k5@;0A2
+R7
+w1733708709
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/PC.v
+!i122 150
+R15
+R8
+R9
+r1
+!s85 0
+31
+R10
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/PC.v|
+!i113 0
+R11
+R4
+n@program@counter
+vRegisterFile
+R13
+!i10b 1
+!s100 NXFJ@<hK8BFG_9gfV@1G_3
+IYEab9XA>PV`h42b38Yf8?1
+R7
+w1733890052
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/RegisterFile.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/RegisterFile.v
+!i122 152
+L0 1 38
+R8
+R9
+r1
+!s85 0
+31
+R14
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/RegisterFile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/RegisterFile.v|
+!i113 0
+R11
+R4
+n@register@file
+vWriteBackMUX
+R13
+!i10b 1
+!s100 YP=kOnlD;zz4PFcK?=FR;1
+IHLQYjD3K`k?OB_OZYJaWl2
+R7
+w1732907557
+8E:/Senior-1/Fall 24/CA/final proj/codes_mips/WriteBackMUX.v
+FE:/Senior-1/Fall 24/CA/final proj/codes_mips/WriteBackMUX.v
+!i122 154
+L0 1 8
+R8
+R9
+r1
+!s85 0
+31
+R14
+!s107 E:/Senior-1/Fall 24/CA/final proj/codes_mips/WriteBackMUX.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Senior-1/Fall 24/CA/final proj/codes_mips/WriteBackMUX.v|
+!i113 0
+R11
+R4
+n@write@back@m@u@x
